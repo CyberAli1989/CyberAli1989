@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CyberAli1989
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning php and laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : naserianali@gmail.com
 
 <!---
