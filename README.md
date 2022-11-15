@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/CyberAli1989" align="center"> 
-  Visitor count<br>
   <img src="scratch.svg" />
 </a>
