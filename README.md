@@ -1,5 +1,5 @@
-![logo](https://github.com/CyberAli1989/CyberAli1989/blob/main/Banner.jpeg)
-
+<img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberAli1989&label=Profile%20views&color=0e75b6&style=flat" alt="CyberAli1989" /> </p>
 - 👋 Hi, I’m @CyberAli1989
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning php and laravel
